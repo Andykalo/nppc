@@ -12,7 +12,7 @@
 	<atom:link href="https://andykalo.github.io/nppc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://andykalo.github.io/nppc</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 27 Oct 2022 08:50:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Oct 2022 12:54:49 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -26,7 +26,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 08:49:45 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Evénement]]></category>
 		<guid isPermaLink="false">https://andykalo.github.io/nppc/?p=272</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem [&#8230;]]]></description>
@@ -51,7 +51,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 08:43:36 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Evénement]]></category>
 		<guid isPermaLink="false">https://andykalo.github.io/nppc/?p=265</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem [&#8230;]]]></description>
@@ -73,7 +73,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 08:36:02 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Communiqués]]></category>
 		<guid isPermaLink="false">https://andykalo.github.io/nppc/?p=254</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.&#160; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
